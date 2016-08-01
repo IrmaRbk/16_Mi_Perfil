@@ -1,0 +1,51 @@
+/* Inserta tu CSS aqui */
+*{
+	text-align: center;
+	margin-top: 2%;
+	font-family: verdana,courier;
+}
+#nav{
+	list-style: none;
+}
+li{
+	display: inline-block;
+	margin: 20px;	
+}
+.blanco{
+	color: white;
+	font-size: 30px;
+}
+.fotoUno{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:600px ;
+	background-image: url("../images/background.jpg");
+	margin-left: 50px;
+}
+
+.chica {
+	border-radius: 100px;
+	display: inline-block;
+	padding-left: 30px;
+}
+
+.col-3 img {
+	height: 150px;
+	width: 150px;
+	display: inline-block;
+	border-radius: 100%;
+
+}
+.margin{
+	margin-right: 
+}
+
+.verde{
+	background-color: #befd76;
+}
+.derecha{
+	margin-right: 20px;
+}
+.izquierda{
+	margin-left: -180px;
+}
